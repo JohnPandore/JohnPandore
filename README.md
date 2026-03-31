@@ -17,7 +17,7 @@
 🤖 Passionné par la robotique, l'IA, les prothèses bioniques, la pop culture et le code
 
 ## 🚀 En cours d'apprentissage
-<img src="assets/icons/python.svg" width="50" style="margin-right: 30px;"/> <img src="assets/icons/typescript.svg" width="50" style="margin-right: 30px;"/> <img src="assets/icons/n8n.svg" width="50"/>  
+<img src="assets/icons/python.svg" width="50" style="margin-right: 100px;"/> <img src="assets/icons/typescript.svg" width="50" style="margin-right: 100px;"/> <img src="assets/icons/n8n.svg" width="50"/>  
 
 > J’approfondis Python et TypeScript pour des projets orientés IA et interfaces dynamiques.
 
