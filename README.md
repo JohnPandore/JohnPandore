@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🔗 Liens
-- [LinkedIn](https://www.linkedin.com/in/...) *(ajoute ton vrai lien ici)*
-- [CV en ligne (PDF)](https://...) *(si hébergé quelque part)*
-- [Portfolio ou site perso](https://...) *(si applicable)*
+- [LinkedIn](https://www.linkedin.com/in/...)
+- [CV en ligne (PDF)](https://...)
+- [Portfolio ou site perso](https://...)
 
 ---
 
