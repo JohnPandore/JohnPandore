@@ -68,7 +68,7 @@
 ---
 
 ## 🔗 Liens
-- [LinkedIn](https://www.linkedin.com/in/...)
+- [LinkedIn](https://www.linkedin.com/)
 - [CV en ligne](https://...)
 - [Portfolio](https://...)
 
