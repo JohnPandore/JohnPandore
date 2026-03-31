@@ -38,7 +38,7 @@
 >> [En cours]: n8n, Automatisation & Workflow, Website from scratch. 
 
 ### Autres
-<img src="assets/icons/premierepro.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/aftereffects.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/davinci.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/youtube.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/instagram.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/tiktok.svg" width="50"/>  
+<img src="assets/icons/premierepro.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/aftereffects.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/davinci.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/youtube.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/instagram.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/tiktok.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/canva.svg" width="50"/>  
 >🎞️ Montage vidéo pro, son, effets spéciaux  
 >🎬 Connaissances solides en Réalisation vidéo (Tournage, Traitement, Montage).  
 >🌐 Réseaux sociaux, Youtube...  
