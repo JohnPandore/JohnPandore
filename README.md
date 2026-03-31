@@ -6,7 +6,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img src="assets/icons/42perpignan.png" width="300"/>  
+<img src="assets/icons/42perpignan.png" width="300"/>  <br>
 
 🎓 Étudiant à [École 42 Perpignan](https://42.fr)  
 
