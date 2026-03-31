@@ -1,11 +1,13 @@
+<!-- <img src="assets/icons/cpp.svg" width="40"/>
+<img src="assets/icons/docker.svg" width="40"/>   -->
+
 ## Hi there 👋
 # I'm Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-🎓 Étudiant à [École 42 Perpignan](https://42.fr) <img src="assets/icons/42perpignanp.png" width="100"/>
-<img src="assets/icons/cpp.svg" width="40"/>
-<img src="assets/icons/docker.svg" width="40"/>  
+🎓 Étudiant à [École 42 Perpignan](https://42.fr) <img src="assets/icons/42perpignan.png" width="100"/>
+
 🛠️ En reconversion pro – Développeur -  
    Cuisinier passionné pendant près de 12 ans, ainsi que Vidéaste Autonome et Polyvalent, j'ai décidé en 2023 de quitter les fourneaux afin d'intégrer l'École 42 de Perpignan et évoluer à 100% dans le domaine de la Tech !  
 🤖 Passionné par la robotique, l'IA, les prothèses bioniques, la pop culture et le code
