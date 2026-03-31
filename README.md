@@ -1,5 +1,5 @@
-<!-- <img src="assets/icons/python.svg" width="50" style="margin-right: 10px;"/>
-<img src="assets/icons/typescript.svg" width="50" style="margin-right: 10px;"/>
+<!-- <img src="assets/icons/python.svg" width="50" style="margin-right: 30px;"/>
+<img src="assets/icons/typescript.svg" width="50" style="margin-right: 30px;"/>
 <img src="assets/icons/n8n.svg" width="50"/>   -->
 
 ## Hi there 👋
