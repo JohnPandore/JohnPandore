@@ -19,7 +19,7 @@
 ## 🚀 En cours d'apprentissage
 <img src="assets/icons/python.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/typescript.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/n8n.svg" width="50"/>  
 
-> J’approfondis Python et TypeScript pour des projets orientés IA et interfaces dynamiques.
+> J’approfondis Python, TypeScript et n8n pour des projets orientés IA et interfaces dynamiques.
 
 ---
 
