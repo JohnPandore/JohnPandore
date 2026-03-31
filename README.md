@@ -29,6 +29,7 @@
 <img src="assets/icons/c.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/c++.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/python.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/typescript.svg" width="50"/>  
 > Bonne maîtrise de C et C++ via projets 42  
 > Utilisation quotidienne de Python et shell scripting
+> Ouvert à l'apprentissage de nouvelles technologies
 
 ### Web / Dev Tools
 <img src="assets/icons/vscode.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/linux.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/github.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/openai.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/gemini.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/n8n.svg" width="50"/>  
