@@ -22,7 +22,7 @@
 > Utilisation quotidienne de Python et shell scripting
 
 ### Web / Dev Tools
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,git,vscode,linux&theme=dark)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,linux,github,&theme=dark)
 > VS Code, Bash, GitHub...
 > Utilisation avancée de diverses IA (Textes, Images, Vidéos, Sons).
 >>> [En cours]: n8n, Automatisation & Workflow, Website from scratch. 
