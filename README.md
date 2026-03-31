@@ -79,3 +79,4 @@
 > 🧠 *Toujours en Quête de Projets Techniques Humains, Innovants et Porteurs de Sens.*  
 > 👋 *Disponible pour Stage-Alternance-Contrat dès maintenant (Robotique, IA, Dev, Tech créative).*
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
