@@ -4,8 +4,8 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 🎓 Étudiant à [École 42 Perpignan](https://42.fr)  
-🛠️ En reconversion pro – Développeur -
-   Cuisinier passionné pendant près de 12 ans, ainsi que Vidéaste Autonome et Polyvalent, j'ai décidé en 2023 de quitter les fourneaux afin d'int"grer l'École 42 de Perpignan et évoluer à 100% dans le domaine de la Tech ! 
+🛠️ En reconversion pro – Développeur -  
+   Cuisinier passionné pendant près de 12 ans, ainsi que Vidéaste Autonome et Polyvalent, j'ai décidé en 2023 de quitter les fourneaux afin d'intégrer l'École 42 de Perpignan et évoluer à 100% dans le domaine de la Tech !  
 🤖 Passionné par la robotique, l'IA, les prothèses bioniques, la pop culture et le code
 
 ## 🚀 En cours d'apprentissage
@@ -25,16 +25,16 @@
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,linux,github,&theme=dark)
 > VS Code, Bash, GitHub...
 > Utilisation avancée de diverses IA (Textes, Images, Vidéos, Sons).
->>> [En cours]: n8n, Automatisation & Workflow, Website from scratch. 
+>> [En cours]: n8n, Automatisation & Workflow, Website from scratch. 
 
 ### Autres
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=premierepro,aftereffects&theme=dark)
-> Montage vidéo pro, son, effets spéciaux
-> Connaissances solides en Réalisation vidéo (Tournage, Traitement, Montage). 
-> Réseaux sociaux, Youtube...
-> Impression 3D, Bricolage électronique, Robotique.
-> Infographie - Photos, Images, Identité visuelle, Communication en ligne.
-> Community Managing. 
+> Montage vidéo pro, son, effets spéciaux  
+> Connaissances solides en Réalisation vidéo (Tournage, Traitement, Montage).  
+> Réseaux sociaux, Youtube...  
+> Impression 3D, Bricolage électronique, Robotique.  
+> Infographie - Photos, Images, Identité visuelle, Communication en ligne.  
+> Community Managing.  
 
 ---
 
