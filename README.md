@@ -16,7 +16,10 @@
 🤖 Passionné par la robotique, l'IA, les prothèses bioniques, la pop culture et le code
 
 ## 🚀 En cours d'apprentissage
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,typescript&theme=dark)
+<img src="assets/icons/python.svg" width="40"/>
+<img src="assets/icons/typescript.svg" width="40"/>
+<img src="assets/icons/n8n.svg" width="40"/>  
+
 > J’approfondis Python et TypeScript pour des projets orientés IA et interfaces dynamiques.
 
 ---
