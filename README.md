@@ -1,5 +1,5 @@
-<!-- <img src="assets/icons/python.svg" width="50" style="margin-right: 10px;"/>
-<img src="assets/icons/typescript.svg" width="50" style="margin-right: 10px;"/>
+<!-- <img src="assets/icons/python.svg" width="50"/>&nbsp;&nbsp; 
+<img src="assets/icons/typescript.svg" width="50"/>&nbsp;&nbsp; 
 <img src="assets/icons/n8n.svg" width="50"/>   -->
 
 ## Hi there 👋
@@ -26,12 +26,12 @@
 ## 💻 Compétences & Outils
 
 ### Languages
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,typescript&theme=dark)
+<img src="assets/icons/c.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/c++.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/python.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/typescript.svg" width="50"/>  
 > Bonne maîtrise de C et C++ via projets 42  
 > Utilisation quotidienne de Python et shell scripting
 
 ### Web / Dev Tools
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,linux,github,&theme=dark)
+<img src="assets/icons/vscode.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/linux.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/github.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/openai.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/gemini.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/n8n.svg" width="50"/>  
 > VS Code, Bash, GitHub...
 > Utilisation avancée de diverses IA (Textes, Images, Vidéos, Sons).
 >> [En cours]: n8n, Automatisation & Workflow, Website from scratch. 
