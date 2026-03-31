@@ -39,13 +39,18 @@ Here are some ideas to get you started:
 
 ### Web / Dev Tools
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,git,vscode,linux&theme=dark)
-> Git, CLI, VS Code, Bash, GitHub...  
-> Connaissances solides en Linux, OBS Studio, traitement vidéo
+> VS Code, Bash, GitHub...
+> Utilisation avancée de diverses IA (Textes, Images, Vidéos, Sons).
+>>> [En cours]: n8n, Automatisation & Workflow, Website from scratch. 
 
 ### Autres
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=premierepro,aftereffects&theme=dark)
-> Montage vidéo pro, réalisation, son, effets spéciaux  
-> Conception 3D, bricolage électronique, robotique DIY
+> Montage vidéo pro, son, effets spéciaux
+> Connaissances solides en Réalisation vidéo (Tournage, Traitement, Montage). 
+> Réseaux sociaux, Youtube...
+> Impression 3D, Bricolage électronique, Robotique.
+> Infographie - Photos, Images, Identité visuelle, Communication en ligne.
+> Community Managing. 
 
 ---
 
@@ -60,16 +65,16 @@ Here are some ideas to get you started:
 ---
 
 ## 🎥 Projets Perso
-- 👨‍🍳 **Studio Hamster** : auto-entrepreneur en vidéo depuis 2014 (clips, entreprises, resto)
-- 🤖 **InMoov** : projet de robot humanoïde imprimé 3D & contrôlé par IA (Python + ESP32)
-- 🎬 **Chaîne YouTube culinaire / geek** en préparation !
+- 👨‍🍳 **Studio Hamster** : Auto-entrepreneur en vidéo depuis 2014 (clips, entreprises, resto)
+- 🤖 **InMoov** : Projet de robot humanoïde imprimé 3D & contrôlé par IA (Python + ESP32)
+- 🎬 **Chaîne YouTube** en préparation !
 
 ---
 
 ## 🔗 Liens
 - [LinkedIn](https://www.linkedin.com/in/...)
-- [CV en ligne (PDF)](https://...)
-- [Portfolio ou site perso](https://...)
+- [CV en ligne](https://...)
+- [Portfolio](https://...)
 
 ---
 
