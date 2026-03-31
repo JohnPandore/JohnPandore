@@ -1,5 +1,6 @@
-<!-- <img src="assets/icons/cpp.svg" width="40"/>
-<img src="assets/icons/docker.svg" width="40"/>   -->
+<!-- <img src="assets/icons/python.svg" width="50" style="margin-right: 10px;"/>
+<img src="assets/icons/typescript.svg" width="50" style="margin-right: 10px;"/>
+<img src="assets/icons/n8n.svg" width="50"/>   -->
 
 ## Hi there 👋
 # I'm Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
@@ -16,7 +17,9 @@
 🤖 Passionné par la robotique, l'IA, les prothèses bioniques, la pop culture et le code
 
 ## 🚀 En cours d'apprentissage
-<img src="assets/icons/python.svg" width="200"/>  <img src="assets/icons/typescript.svg" width="50"/>  <img src="assets/icons/n8n.svg" width="50"/>  
+<img src="assets/icons/python.svg" width="50" style="margin-right: 10px;"/>
+<img src="assets/icons/typescript.svg" width="50" style="margin-right: 10px;"/>
+<img src="assets/icons/n8n.svg" width="50"/>  
 
 > J’approfondis Python et TypeScript pour des projets orientés IA et interfaces dynamiques.
 
