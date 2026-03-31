@@ -6,7 +6,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img src="assets/icons/42perpignan.png" width="160"/> 🎓 Étudiant à [École 42 Perpignan](https://42.fr) 
+<img src="assets/icons/42perpignan.png" width="300"/>  🎓 Étudiant à [École 42 Perpignan](https://42.fr) 
 
 🛠️ En reconversion pro – Développeur -  
    Cuisinier passionné pendant près de 12 ans, ainsi que Vidéaste Autonome et Polyvalent, j'ai décidé en 2023 de quitter les fourneaux afin d'intégrer l'École 42 de Perpignan et évoluer à 100% dans le domaine de la Tech !  
