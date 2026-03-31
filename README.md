@@ -3,7 +3,9 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-🎓 Étudiant à [École 42 Perpignan](https://42.fr)  
+🎓 Étudiant à [École 42 Perpignan](https://42.fr) <img src="assets/icons/42perpignanp.png" width="100"/>
+<img src="assets/icons/cpp.svg" width="40"/>
+<img src="assets/icons/docker.svg" width="40"/>  
 🛠️ En reconversion pro – Développeur -  
    Cuisinier passionné pendant près de 12 ans, ainsi que Vidéaste Autonome et Polyvalent, j'ai décidé en 2023 de quitter les fourneaux afin d'intégrer l'École 42 de Perpignan et évoluer à 100% dans le domaine de la Tech !  
 🤖 Passionné par la robotique, l'IA, les prothèses bioniques, la pop culture et le code
@@ -29,12 +31,12 @@
 
 ### Autres
 ![Skills](https://go-skill-icons.vercel.app/api/icons?i=premierepro,aftereffects&theme=dark)
-> Montage vidéo pro, son, effets spéciaux  
-> Connaissances solides en Réalisation vidéo (Tournage, Traitement, Montage).  
-> Réseaux sociaux, Youtube...  
-> Impression 3D, Bricolage électronique, Robotique.  
-> Infographie - Photos, Images, Identité visuelle, Communication en ligne.  
-> Community Managing.  
+>🎞️ Montage vidéo pro, son, effets spéciaux  
+>🎬 Connaissances solides en Réalisation vidéo (Tournage, Traitement, Montage).  
+>🌐 Réseaux sociaux, Youtube...  
+>🤖 Impression 3D, Bricolage électronique, Robotique.  
+>🎨 Infographie - Photos, Images, Identité visuelle, Communication en ligne.  
+>📊 Community Managing.  
 
 ---
 
@@ -51,7 +53,7 @@
 ## 🎥 Projets Perso
 - 👨‍🍳 **Studio Hamster** : Auto-entrepreneur en vidéo depuis 2014 (clips, entreprises, resto)
 - 🤖 **InMoov** : Projet de robot humanoïde imprimé 3D & contrôlé par IA (Python + ESP32)
-- 🎬 **Chaîne YouTube** en préparation !
+- 🎬 **Chaîne YouTube** en construction !
 
 ---
 
