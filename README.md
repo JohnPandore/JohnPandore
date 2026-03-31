@@ -1,27 +1,11 @@
 ## Hi there 👋
-
-<!--
-**JohnPandore/JohnPandore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# Hello, I'm Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+# I'm Jonathan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 🎓 Étudiant à [École 42 Perpignan](https://42.fr)  
-🛠️ En reconversion pro – cuisinier & vidéaste devenu développeur  
+🛠️ En reconversion pro – Développeur -
+   Cuisinier passionné pendant près de 12 ans, ainsi que Vidéaste Autonome et Polyvalent, j'ai décidé en 2023 de quitter les fourneaux afin d'int"grer l'École 42 de Perpignan et évoluer à 100% dans le domaine de la Tech ! 
 🤖 Passionné par la robotique, l'IA, les prothèses bioniques, la pop culture et le code
 
 ## 🚀 En cours d'apprentissage
@@ -33,7 +17,7 @@ Here are some ideas to get you started:
 ## 💻 Compétences & Outils
 
 ### Languages
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python&theme=dark)
+![Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,typescript&theme=dark)
 > Bonne maîtrise de C et C++ via projets 42  
 > Utilisation quotidienne de Python et shell scripting
 
