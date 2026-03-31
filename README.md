@@ -38,7 +38,7 @@
 >> [En cours]: n8n, Automatisation & Workflow, Website from scratch. 
 
 ### Autres
-![Skills](https://go-skill-icons.vercel.app/api/icons?i=premierepro,aftereffects&theme=dark)
+<img src="assets/icons/premierepro.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/aftereffects.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/davinci.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/youtube.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/instagram.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/tiktok.svg" width="50"/>  
 >🎞️ Montage vidéo pro, son, effets spéciaux  
 >🎬 Connaissances solides en Réalisation vidéo (Tournage, Traitement, Montage).  
 >🌐 Réseaux sociaux, Youtube...  
@@ -59,8 +59,10 @@
 ---
 
 ## 🎥 Projets Perso
+<!-- <img src="assets/icons/studiohamster.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/inmoov.svg" width="50"/>&nbsp;&nbsp; <img src="assets/icons/youtube.svg" width="50"/>   -->
+
 - 👨‍🍳 **Studio Hamster** : Auto-entrepreneur en vidéo depuis 2014 (clips, entreprises, resto)
-- 🤖 **InMoov** : Projet de robot humanoïde imprimé 3D & contrôlé par IA (Python + ESP32)
+- 🤖 **InMoov** : Projet de robot humanoïde imprimé 3D & contrôlé par Arduino / IA (Python + ESP32)
 - 🎬 **Chaîne YouTube** en construction !
 
 ---
@@ -75,5 +77,5 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 > 🧠 *Toujours en quête de projets techniques humains, innovants et porteurs de sens.*  
-> 👋 *Dispo pour stage dès maintenant (Robotique, IA, Dev, Tech créative).*
+> 👋 *Disponible pour Stage-Alternance-Contrat dès maintenant (Robotique, IA, Dev, Tech créative).*
 
